@@ -1,0 +1,1 @@
+En la carpeta 'contenedor-docker_v2/db/init' esta la construccion del database y en la carpeta 'EDA' es donde encontramos el analisis exploratorio de datos
