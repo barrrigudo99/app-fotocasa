@@ -1,0 +1,286 @@
+{
+  "url_origen": "https://www.fotocasa.es/es/alquiler/viviendas/espana/todas-las-zonas/l/2",
+  "total": 31,
+  "enlaces": [
+    {
+      "id": "187846324/d",
+      "url": "https://www.fotocasa.es/es/alquiler/vivienda/malaga-capital/ascensor-amueblado/187846324/d",
+      "estado": false,
+      "importado": false,
+      "timestamp": "2026-01-11T15:41:56.709Z",
+      "importado_at": null,
+      "visitado": null
+    },
+    {
+      "id": "188221430/d",
+      "url": "https://www.fotocasa.es/es/alquiler/vivienda/alcobendas/terraza-se-aceptan-mascotas/188221430/d",
+      "estado": false,
+      "importado": false,
+      "timestamp": "2026-01-11T15:41:56.709Z",
+      "importado_at": null,
+      "visitado": null
+    },
+    {
+      "id": "185825742/d",
+      "url": "https://www.fotocasa.es/es/alquiler/vivienda/madrid-capital/terraza-se-aceptan-mascotas/185825742/d",
+      "estado": false,
+      "importado": false,
+      "timestamp": "2026-01-11T15:41:56.709Z",
+      "importado_at": null,
+      "visitado": null
+    },
+    {
+      "id": "187540729/d",
+      "url": "https://www.fotocasa.es/es/alquiler/vivienda/santa-pola/ascensor/187540729/d",
+      "estado": false,
+      "importado": false,
+      "timestamp": "2026-01-11T15:41:56.709Z",
+      "importado_at": null,
+      "visitado": null
+    },
+    {
+      "id": "187981389/d",
+      "url": "https://www.fotocasa.es/es/alquiler/vivienda/donostia-san-sebastian/aire-acondicionado-calefaccion-terraza-ascensor-piscina/187981389/d",
+      "estado": false,
+      "importado": false,
+      "timestamp": "2026-01-11T15:41:56.709Z",
+      "importado_at": null,
+      "visitado": null
+    },
+    {
+      "id": "188210048/d",
+      "url": "https://www.fotocasa.es/es/alquiler/vivienda/castelldefels/aire-acondicionado-calefaccion-parking-jardin-trastero-no-amueblado/188210048/d",
+      "estado": false,
+      "importado": false,
+      "timestamp": "2026-01-11T15:41:56.709Z",
+      "importado_at": null,
+      "visitado": null
+    },
+    {
+      "id": "186949797/d",
+      "url": "https://www.fotocasa.es/es/alquiler/vivienda/donostia-san-sebastian/calefaccion-terraza-ascensor/186949797/d",
+      "estado": false,
+      "importado": false,
+      "timestamp": "2026-01-11T15:41:56.709Z",
+      "importado_at": null,
+      "visitado": null
+    },
+    {
+      "id": "184207787/d",
+      "url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-ascensor-patio-amueblado/184207787/d",
+      "estado": false,
+      "importado": false,
+      "timestamp": "2026-01-11T15:41:56.709Z",
+      "importado_at": null,
+      "visitado": null
+    },
+    {
+      "id": "188317611/d",
+      "url": "https://www.fotocasa.es/es/alquiler/vivienda/palma-de-mallorca/aire-acondicionado-parking-jardin-terraza-trastero-ascensor-piscina/188317611/d",
+      "estado": false,
+      "importado": false,
+      "timestamp": "2026-01-11T15:41:56.709Z",
+      "importado_at": null,
+      "visitado": null
+    },
+    {
+      "id": "188253562/d",
+      "url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/calefaccion-ascensor/188253562/d",
+      "estado": false,
+      "importado": false,
+      "timestamp": "2026-01-11T15:41:56.709Z",
+      "importado_at": null,
+      "visitado": null
+    },
+    {
+      "id": "187062347/d",
+      "url": "https://www.fotocasa.es/es/alquiler/vivienda/madrid-capital/aire-acondicionado-calefaccion-ascensor-amueblado-television-internet/187062347/d",
+      "estado": false,
+      "importado": false,
+      "timestamp": "2026-01-11T15:41:56.709Z",
+      "importado_at": null,
+      "visitado": null
+    },
+    {
+      "id": "188444374/d",
+      "url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/ascensor/188444374/d",
+      "estado": false,
+      "importado": false,
+      "timestamp": "2026-01-11T15:41:56.709Z",
+      "importado_at": null,
+      "visitado": null
+    },
+    {
+      "id": "186176268/d",
+      "url": "https://www.fotocasa.es/es/alquiler/vivienda/pinto/se-aceptan-mascotas/186176268/d",
+      "estado": false,
+      "importado": false,
+      "timestamp": "2026-01-11T15:41:56.709Z",
+      "importado_at": null,
+      "visitado": null
+    },
+    {
+      "id": "187480181/d",
+      "url": "https://www.fotocasa.es/es/alquiler/vivienda/madrid-capital/se-aceptan-mascotas/187480181/d",
+      "estado": false,
+      "importado": false,
+      "timestamp": "2026-01-11T15:41:56.709Z",
+      "importado_at": null,
+      "visitado": null
+    },
+    {
+      "id": "188207294/d",
+      "url": "https://www.fotocasa.es/es/alquiler/vivienda/ferrol/parking-terraza-ascensor-amueblado/188207294/d",
+      "estado": false,
+      "importado": false,
+      "timestamp": "2026-01-11T15:41:56.709Z",
+      "importado_at": null,
+      "visitado": null
+    },
+    {
+      "id": "188443272/d",
+      "url": "https://www.fotocasa.es/es/alquiler/vivienda/san-lorenzo-de-el-escorial/calefaccion/188443272/d",
+      "estado": false,
+      "importado": false,
+      "timestamp": "2026-01-11T15:41:56.709Z",
+      "importado_at": null,
+      "visitado": null
+    },
+    {
+      "id": "188178444/d",
+      "url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/ascensor/188178444/d",
+      "estado": false,
+      "importado": false,
+      "timestamp": "2026-01-11T15:41:56.709Z",
+      "importado_at": null,
+      "visitado": null
+    },
+    {
+      "id": "188209017/d",
+      "url": "https://www.fotocasa.es/es/alquiler/vivienda/madrid-capital/calefaccion-ascensor-no-amueblado/188209017/d",
+      "estado": false,
+      "importado": false,
+      "timestamp": "2026-01-11T15:41:56.709Z",
+      "importado_at": null,
+      "visitado": null
+    },
+    {
+      "id": "187835448/d",
+      "url": "https://www.fotocasa.es/es/alquiler/vivienda/castelldefels/calefaccion-parking-trastero-piscina/187835448/d",
+      "estado": false,
+      "importado": false,
+      "timestamp": "2026-01-11T15:41:56.709Z",
+      "importado_at": null,
+      "visitado": null
+    },
+    {
+      "id": "187103153/d",
+      "url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/calefaccion-parking-ascensor/187103153/d",
+      "estado": false,
+      "importado": false,
+      "timestamp": "2026-01-11T15:41:56.709Z",
+      "importado_at": null,
+      "visitado": null
+    },
+    {
+      "id": "187544927/d",
+      "url": "https://www.fotocasa.es/es/alquiler/vivienda/villanueva-de-la-canada/aire-acondicionado-calefaccion-parking-jardin-piscina/187544927/d",
+      "estado": false,
+      "importado": false,
+      "timestamp": "2026-01-11T15:41:56.709Z",
+      "importado_at": null,
+      "visitado": null
+    },
+    {
+      "id": "188444392/d",
+      "url": "https://www.fotocasa.es/es/alquiler/vivienda/badalona/port/188444392/d",
+      "estado": false,
+      "importado": false,
+      "timestamp": "2026-01-11T15:41:56.709Z",
+      "importado_at": null,
+      "visitado": null
+    },
+    {
+      "id": "187842275/d",
+      "url": "https://www.fotocasa.es/es/alquiler/vivienda/alcudia/aire-acondicionado-calefaccion-parking-jardin-terraza-piscina-se-aceptan-mascotas-no-amueblado/187842275/d",
+      "estado": false,
+      "importado": false,
+      "timestamp": "2026-01-11T15:41:56.709Z",
+      "importado_at": null,
+      "visitado": null
+    },
+    {
+      "id": "188266594/d",
+      "url": "https://www.fotocasa.es/es/alquiler/vivienda/girona-capital/aire-acondicionado-calefaccion-amueblado/188266594/d",
+      "estado": false,
+      "importado": false,
+      "timestamp": "2026-01-11T15:41:56.709Z",
+      "importado_at": null,
+      "visitado": null
+    },
+    {
+      "id": "183970860/d",
+      "url": "https://www.fotocasa.es/es/alquiler/vivienda/vandellos-i-l-hospitalet-de-l-infant/aire-acondicionado-calefaccion-ascensor-amueblado-internet/183970860/d",
+      "estado": false,
+      "importado": false,
+      "timestamp": "2026-01-11T15:41:56.709Z",
+      "importado_at": null,
+      "visitado": null
+    },
+    {
+      "id": "188232797/d",
+      "url": "https://www.fotocasa.es/es/alquiler/vivienda/vigo/plaza-espana-corte-ingles/188232797/d",
+      "estado": false,
+      "importado": false,
+      "timestamp": "2026-01-11T15:41:56.709Z",
+      "importado_at": null,
+      "visitado": null
+    },
+    {
+      "id": "187341767/d",
+      "url": "https://www.fotocasa.es/es/alquiler/vivienda/madrid-capital/aire-acondicionado-calefaccion-amueblado-se-aceptan-mascotas-internet/187341767/d",
+      "estado": false,
+      "importado": false,
+      "timestamp": "2026-01-11T15:41:56.709Z",
+      "importado_at": null,
+      "visitado": null
+    },
+    {
+      "id": "186711213/d",
+      "url": "https://www.fotocasa.es/es/alquiler/vivienda/santa-coloma-de-gramenet/aire-acondicionado-calefaccion-amueblado-internet/186711213/d",
+      "estado": false,
+      "importado": false,
+      "timestamp": "2026-01-11T15:41:56.709Z",
+      "importado_at": null,
+      "visitado": null
+    },
+    {
+      "id": "188262876/d",
+      "url": "https://www.fotocasa.es/es/alquiler/vivienda/barcelona-capital/aire-acondicionado-calefaccion-terraza-amueblado/188262876/d",
+      "estado": false,
+      "importado": false,
+      "timestamp": "2026-01-11T15:41:56.709Z",
+      "importado_at": null,
+      "visitado": null
+    },
+    {
+      "id": "187853054/d",
+      "url": "https://www.fotocasa.es/es/alquiler/vivienda/rincon-de-la-victoria/terraza-amueblado/187853054/d",
+      "estado": false,
+      "importado": false,
+      "timestamp": "2026-01-11T15:41:56.709Z",
+      "importado_at": null,
+      "visitado": null
+    },
+    {
+      "id": "183295141/d",
+      "url": "https://www.fotocasa.es/es/alquiler/vivienda/madrid-capital/aire-acondicionado-calefaccion-amueblado-internet/183295141/d",
+      "estado": false,
+      "importado": false,
+      "timestamp": "2026-01-11T15:41:56.709Z",
+      "importado_at": null,
+      "visitado": null
+    }
+  ],
+  "timestamp": "2026-01-11T15:41:56.709Z"
+}
